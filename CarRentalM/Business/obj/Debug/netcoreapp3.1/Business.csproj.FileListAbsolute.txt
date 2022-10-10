@@ -1,0 +1,17 @@
+C:\Users\Aslı\source\repos\CarRentalM\Business\obj\Debug\netcoreapp3.1\Business.csproj.AssemblyReference.cache
+C:\Users\Aslı\source\repos\CarRentalM\Business\obj\Debug\netcoreapp3.1\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aslı\source\repos\CarRentalM\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfoInputs.cache
+C:\Users\Aslı\source\repos\CarRentalM\Business\obj\Debug\netcoreapp3.1\Business.AssemblyInfo.cs
+C:\Users\Aslı\source\repos\CarRentalM\Business\obj\Debug\netcoreapp3.1\Business.csproj.CoreCompileInputs.cache
+C:\Users\Aslı\source\repos\CarRentalM\Business\bin\Debug\netcoreapp3.1\Business.deps.json
+C:\Users\Aslı\source\repos\CarRentalM\Business\bin\Debug\netcoreapp3.1\Business.dll
+C:\Users\Aslı\source\repos\CarRentalM\Business\bin\Debug\netcoreapp3.1\Business.pdb
+C:\Users\Aslı\source\repos\CarRentalM\Business\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\Aslı\source\repos\CarRentalM\Business\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\Aslı\source\repos\CarRentalM\Business\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\Aslı\source\repos\CarRentalM\Business\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\Aslı\source\repos\CarRentalM\Business\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\Aslı\source\repos\CarRentalM\Business\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\Aslı\source\repos\CarRentalM\Business\obj\Debug\netcoreapp3.1\Business.csproj.CopyComplete
+C:\Users\Aslı\source\repos\CarRentalM\Business\obj\Debug\netcoreapp3.1\Business.dll
+C:\Users\Aslı\source\repos\CarRentalM\Business\obj\Debug\netcoreapp3.1\Business.pdb
